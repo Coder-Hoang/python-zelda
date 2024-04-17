@@ -1,0 +1,4 @@
+([('main',
+   '/Users/hoangnguyen/Documents/code/python/Zelda-main/15 - fixes '
+   'audio/dist/main',
+   'EXECUTABLE')],)
